@@ -1,0 +1,94 @@
+
+@font-face {
+    font-family: "iran yekan";
+    src: url() format();
+
+font-size: ;
+font-weight: ;
+font-style: ;
+
+
+
+}
+
+
+
+
+
+
+body {
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+direction: rtl;
+}
+
+html{
+    font-size: 12px;
+}
+ .doveLogo{
+
+ }
+
+header{
+
+    padding: 8px 16px ;
+    background-color: white;
+    box-shadow: rgb( 0px, 2px, 4px);
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;  
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.rightbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search input{
+    width: 120px;
+}
+
+.container-fluid{
+height: 100vh;
+background-color:#ffc107;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 50px 30px;
+}
+
+.text a{
+font-weight: bold;
+border: 3px solid antiquewhite;
+border-radius: 6px ;
+display: flex;
+justify-content: center;
+
+
+margin-bottom: 20px;
+padding: 8px 8px ;
+font-size: 15px;
+width: 120px;
+
+}
