@@ -78,11 +78,44 @@ border: 3px solid antiquewhite;
 border-radius: 6px ;
 display: flex;
 justify-content: center;
-
-
-margin-bottom: 20px;
+margin-bottom: 30px;
 padding: 8px 8px ;
 font-size: 15px;
 width: 120px;
+}
+
+.page2{
+height: 90vh;
+background-color: antiquewhite;
 
 }
+
+.topContainer{
+text-align: center;
+padding-top: 10px ;
+padding-bottom: 20px;
+
+}
+
+
+.buttonContainer{
+display: flex;
+text-align: center;
+justify-content: center;
+gap: 45px;
+padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
